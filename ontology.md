@@ -628,7 +628,7 @@ The resource has been formatted for display.
 
 # Defined Term: Typewritten
 
-The resource contains text produced on a tpyewriter (From Nyingarn - TODO check this)
+The resource contains text produced on a typewriter (From Nyingarn - TODO check this)
 
 </div><br>
 <div id="WrittenLanguage"  style="border-style: solid">
