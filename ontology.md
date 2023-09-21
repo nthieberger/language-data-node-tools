@@ -758,7 +758,7 @@ The type of annotation for Annotation resources
 
 ## Property: annotator
 
-The participant produced an annotation of this or a related resource.
+The annotator produced an annotation of this or a related resource.
 
 ### Values expected to be one of these types: 
 
@@ -786,7 +786,7 @@ The participant produced an annotation of this or a related resource.
 
 ## Property: author
 
-The participant contributed original writings to the resource.
+The author contributed original writings to the resource.
 
 ### Values expected to be one of these types: 
 
@@ -924,7 +924,7 @@ A description of the process used to collect or collate data, such as prompts gi
 
 ## Property: compiler
 
-The participant is responsible for collecting the sub-parts of the resource together.
+The compiler is responsible for collecting the sub-parts of the resource together.
 
 ### Values expected to be one of these types: 
 
@@ -952,7 +952,7 @@ The participant is responsible for collecting the sub-parts of the resource toge
 
 ## Property: consultant
 
-The participant contributes expertise to the creation of a work.
+The consultant contributes expertise to the creation of a work.
 
 ### Values expected to be one of these types: 
 
@@ -980,7 +980,7 @@ The participant contributes expertise to the creation of a work.
 
 ## Property: dataInputter
 
-The participant was responsible for entering, re-typing, and/or structuring the data contained in the resource.
+The data inputter was responsible for entering, re-typing, and/or structuring the data contained in the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1008,7 +1008,7 @@ The participant was responsible for entering, re-typing, and/or structuring the 
 
 ## Property: depositor
 
-The participant was responsible for depositing the resource in an archive.
+The depositor was responsible for depositing the resource in an archive.
 
 ### Values expected to be one of these types: 
 
@@ -1059,7 +1059,7 @@ This resource references another resource that is derived from it such as a down
 
 ## Property: developer
 
-The participant developed the methodology or tools that constitute the resource, or that were used to create the resource.
+The developer developed the methodology or tools that constitute the resource, or that were used to create the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1110,7 +1110,7 @@ A digital Object Identifier
 
 ## Property: editor
 
-The participant reviewed, corrected, and/or tested the resource.
+The editor reviewed, corrected, and/or tested the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1230,7 +1230,7 @@ This resource references another resource that is derived from it such as a down
 
 ## Property: illustrator
 
-The participant contributed drawings or other illustrations to the resource.
+The illustrator contributed drawings or other illustrations to the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1281,7 +1281,7 @@ Indicates one or more target File that together contain the full text of an item
 
 ## Property: interpreter
 
-The participant translates in real-time or explains the discourse recorded in the resource.
+The interpreter translates in real-time or explains the discourse recorded in the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1309,7 +1309,7 @@ The participant translates in real-time or explains the discourse recorded in th
 
 ## Property: interviewee
 
-The participant was a respondent in an interview
+The interviewee was a respondent in an interview
 
 ### Values expected to be one of these types: 
 
@@ -1332,7 +1332,7 @@ The participant was a respondent in an interview
 
 ## Property: interviewer
 
-The participant conducted an interview that forms part of the resource.
+The interviewer conducted an interview that forms part of the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1492,7 +1492,7 @@ The participant was present during the creation of the resource, but did not con
 
 ## Property: performer
 
-The participant performed some portion of a recorded, filmed, or transcribed resource.
+The performer performed some portion of a recorded, filmed, or transcribed resource.
 
 ### Values expected to be one of these types: 
 
@@ -1543,7 +1543,7 @@ This property references a Person item which represents the persistent identity 
 
 ## Property: photographer
 
-The participant took the photograph, or shot the film, that appears in or constitutes the resource.
+The photographer took the photograph, or shot the film, that appears in or constitutes the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1571,7 +1571,7 @@ The participant took the photograph, or shot the film, that appears in or consti
 
 ## Property: recorder
 
-The participant operated the recording machinery used to create the resource.
+The recorder operated the recording machinery used to create the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1627,7 +1627,7 @@ Specifies the type of register (any of the varieties of a language that a speake
 
 ## Property: researchParticipant
 
-The participant acted as a research subject or responded to a questionnaire, the results of which study form the basis of the resource.
+The research participant acted as a research subject or responded to a questionnaire, the results of which study form the basis of the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1683,7 +1683,7 @@ The resource was created as part of the participant's research, or the research 
 
 ## Property: responder
 
-The participant was an interlocutor in some sort of discourse event.
+The responder was an interlocutor in some sort of discourse event.
 
 ### Values expected to be one of these types: 
 
@@ -1711,7 +1711,7 @@ The participant was an interlocutor in some sort of discourse event.
 
 ## Property: signer
 
-The participant was a principal signer in a resource that consists of a recording, a film, or a transcription of a recorded resource.
+The signer was a principal signer in a resource that consists of a recording, a film, or a transcription of a recorded resource.
 
 ### Values expected to be one of these types: 
 
@@ -1739,7 +1739,7 @@ The participant was a principal signer in a resource that consists of a recordin
 
 ## Property: singer
 
-The participant sang, either individually or as part of a group, in a resource that consists of a recording, a film, or a transcription of a recorded resource.
+The singer sang, either individually or as part of a group, in a resource that consists of a recording, a film, or a transcription of a recorded resource.
 
 ### Values expected to be one of these types: 
 
@@ -1767,7 +1767,7 @@ The participant sang, either individually or as part of a group, in a resource t
 
 ## Property: speaker
 
-The participant was a principal speaker in a resource that consists of a recording, a film, or a transcription of a recorded resource.
+The speaker was a principal speaker in a resource that consists of a recording, a film, or a transcription of a recorded resource.
 
 ### Values expected to be one of these types: 
 
@@ -1795,7 +1795,7 @@ The participant was a principal speaker in a resource that consists of a recordi
 
 ## Property: sponsor
 
-The participant contributed financial support to the creation of the resource.
+The sponsor contributed financial support to the creation of the resource.
 
 ### Values expected to be one of these types: 
 
@@ -1823,7 +1823,7 @@ The participant contributed financial support to the creation of the resource.
 
 ## Property: transcriber
 
-The participant produced a transcription of this or a related resource.
+The transcriber produced a transcription of this or a related resource.
 
 ### Values expected to be one of these types: 
 
@@ -1851,7 +1851,7 @@ The participant produced a transcription of this or a related resource.
 
 ## Property: translator
 
-The participant produced a translation of this or a related resource.
+The translator produced a translation of this or a related resource.
 
 ### Values expected to be one of these types: 
 
